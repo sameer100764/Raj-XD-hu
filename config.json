@@ -16,8 +16,8 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "raj-xd",
-    "PREFIX": "/",
+    "BOTNAME": "RAJ XD-THAKUR",
+    "PREFIX": "raj",
     "ADMINBOT": [
         "61574885940483"
     ],
@@ -226,7 +226,7 @@
     "god": {
         "enable": true
     },
-    "help2": {
+    "rajhelp": {
         "autoUnsend": true,
         "delayUnsend": 300
     }
